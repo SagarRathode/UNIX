@@ -41,7 +41,10 @@ I read this book in a course taught by Dr. Vijay Gokhale.[AstroMedicomp.org]
 If you feel that corrections are required, feel free to create a PR! :)
 
 **********************************************************************************************************************
+
 Notes written by @Piyush Khairnar - [Marvellous Infosystems](https://www.marvellousinfosystems.com)
-नोटस in [मराठी भाषेमध्ये ](https://drive.google.com/file/d/1EiP5usaIOX_Be0xIuqR9A2ouRwbq7Y1k/view?usp=share_link)
+
+UNIX नोटस in [मराठी भाषेमध्ये ](https://drive.google.com/file/d/1EiP5usaIOX_Be0xIuqR9A2ouRwbq7Y1k/view?usp=share_link)
+
 **********************************************************************************************************************
     
