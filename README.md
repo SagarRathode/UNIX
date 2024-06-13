@@ -35,7 +35,7 @@ These are my notes on the classic operating systems book: The Design of the UNIX
                             13.Distributed UNIX Systems
 
 
-I read this book in a course taught by Dr. Vijay Gokhale.
+I read this book in a course taught by Dr. Vijay Gokhale.[AstroMedicomp.org]
 
 
 If you feel that corrections are required, feel free to create a PR! :)
